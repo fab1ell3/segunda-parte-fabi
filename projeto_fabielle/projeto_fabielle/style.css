@@ -1,6 +1,16 @@
 body{
-    background-color: rgb(229, 209, 248);
+    display: flex;
+flex-direction: column;
+align-items: center;
+margin-top: 200px;
+background-color: rgb(191, 191, 191);
 }
 
-
-      
+.manga {
+    display: flex;
+flex-direction: column;
+align-items: center;
+height: 300px;
+width: 500px;
+background-color: rgb(171, 169, 169);
+}
