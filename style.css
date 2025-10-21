@@ -1,0 +1,90 @@
+body{
+    display: flex;
+flex-direction: column;
+align-items: center;
+margin-top: 170px;
+background-color: rgb(108, 113, 108);
+background-image: url(https://diskmadeiras.com.br/wp-content/uploads/2024/06/MDF-CINZA-URBANO-MATT-SOFT-06MM-1-FACE-EUCATEX.jpg); 
+
+
+.manga {
+    display: flex;
+flex-direction: column;
+align-items: center;
+height: auto;
+width: 600px;
+background-color: rgb(112, 118, 111);
+
+display:flex;
+flex-direction: column;
+align-items: center;
+background-image: url(https://cdn.awsli.com.br/2524/2524457/produto/227322066/cr333201r-xz0vnt1gip.jpg);
+border-radius: 30px;
+}
+
+}
+
+
+
+   
+  body {
+    
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    padding: 20px;
+  }
+  
+  header {
+    padding: 15px 20px;
+    text-align: center;
+    border-radius: 5px;
+    margin-bottom: 20px;
+  }
+  
+  h1, h2, h3 {
+    margin-bottom: 10px;
+  }
+  
+  p {
+    margin-bottom: 15px;
+  }
+  
+  a {
+    text-decoration: none;
+    transition: color 0.3s ease;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  button {
+    border: none;
+    padding: 10px 15px;
+    cursor: pointer;
+    border-radius: 3px;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+  }
+  
+  ul {
+    list-style-type: disc;
+    margin-left: 20px;
+    margin-bottom: 20px;
+  }
+  
+  input[type="text"],
+  input[type="email"],
+  textarea {
+    width: 100%;
+    padding: 8px 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 14px;
+  }
+  
+  textarea {
+    resize: vertical;
+  }
+
